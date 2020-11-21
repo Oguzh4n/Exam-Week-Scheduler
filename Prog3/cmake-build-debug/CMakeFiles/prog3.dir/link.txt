@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/prog3.dir/main.cpp.o  -o prog3 

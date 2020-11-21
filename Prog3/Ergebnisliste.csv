@@ -1,0 +1,901 @@
+studiengang;pnr;raumnummer;pdtxt;tag;startzeit;stoptzeit
+AB;1030;1/227;Technik Grundlagen;1;0;4
+AB;4030;1/227;Grundlagen Organisation 1;1;8;10
+AB;1020;1/227;Konstruktion Grundlagen;2;0;2
+AB;1020;1/227;Konstruktion Grundlagen;2;6;8
+AB;1030;1/227;Technik Grundlagen;3;0;4
+AB;1030;1/227;Technik Grundlagen;4;0;4
+AB;1030;1/227;Technik Grundlagen;5;0;4
+AB;2030;1/227;Grundlagen Entwerfen 2;6;0;3
+AB;2030;1/227;Grundlagen Entwerfen 2;6;7;10
+AB;2030;1/227;Grundlagen Entwerfen 2;7;0;3
+AB;2030;1/227;Grundlagen Entwerfen 2;7;7;10
+AB;2030;1/227;Grundlagen Entwerfen 2;8;0;3
+AB;2030;1/227;Grundlagen Entwerfen 2;8;7;10
+AB;2030;1/227;Grundlagen Entwerfen 2;9;0;3
+AB;2030;1/227;Grundlagen Entwerfen 2;9;7;10
+AB;4030;1/227;Grundlagen Organisation 1;3;8;10
+AB;4030;1/227;Grundlagen Organisation 1;4;8;10
+AB;4030;1/227;Grundlagen Organisation 1;5;8;10
+AB;4030;1/227;Grundlagen Organisation 1;10;0;2
+AB;4030;1/227;Grundlagen Organisation 1;10;6;8
+AB;4030;1/309;Grundlagen Organisation 1;1;0;2
+AB;4040;1/309;Grundl.Recht 1;1;6;8
+AB;4040;1/309;Grundl.Recht 1;2;0;2
+AB;4040;1/309;Grundl.Recht 1;2;6;8
+AB;4040;1/309;Grundl.Recht 1;3;0;2
+AB;4040;1/309;Grundl.Recht 1;3;6;8
+AB;4050;1/309;Fremdsprache Grundkurs;4;0;1
+AB;4050;1/309;Fremdsprache Grundkurs;4;5;6
+AB;4050;1/309;Fremdsprache Grundkurs;5;0;1
+AB;4050;1/309;Fremdsprache Grundkurs;5;5;6
+AB;4050;1/309;Fremdsprache Grundkurs;6;0;1
+AB;5010;1/309;Grundl.Recht 2;6;5;6
+AB;5010;1/309;Grundl.Recht 2;7;0;1
+AB;5010;1/309;Grundl.Recht 2;7;5;6
+AB;5010;1/309;Grundl.Recht 2;8;0;1
+AB;5010;1/309;Grundl.Recht 2;8;5;6
+AB;5010;1/309;Grundl.Recht 2;9;0;1
+AB;1921010;1/309;Grundlagen Entwerfen 1;9;5;6
+AB;1921010;1/309;Grundlagen Entwerfen 1;10;0;1
+AB;1921010;1/309;Grundlagen Entwerfen 1;10;5;6
+AB;1921010;1/311;Grundlagen Entwerfen 1;1;0;1
+AB;1921010;1/311;Grundlagen Entwerfen 1;1;5;6
+AB;1921010;1/311;Grundlagen Entwerfen 1;2;0;1
+AB;1921010;1/311;Grundlagen Entwerfen 1;2;5;6
+AB;1921010;1/311;Grundlagen Entwerfen 1;3;0;1
+AB;1921010;1/311;Grundlagen Entwerfen 1;3;5;6
+AB;1921030;1/311;Grundlagen Technik;4;0;3
+AB;1921030;1/311;Grundlagen Technik;4;7;10
+AB;1921030;1/311;Grundlagen Technik;5;0;3
+AB;1921030;1/311;Grundlagen Technik;5;7;10
+AB;1921030;1/311;Grundlagen Technik;6;0;3
+AB;1921030;1/311;Grundlagen Technik;6;7;10
+AB;1921030;1/311;Grundlagen Technik;7;0;3
+AB;1921030;1/311;Grundlagen Technik;7;7;10
+AB;1921030;1/311;Grundlagen Technik;8;0;3
+AB;1921030;1/311;Grundlagen Technik;8;7;10
+BB;1010;1/311;Mathematik I;9;0;1
+BB;1030;1/311;Baustoffkunde I;9;5;7
+BB;1030;1/311;Baustoffkunde I;10;0;2
+BB;1030;1/311;Baustoffkunde I;10;6;8
+BB;1030;3/101;Baustoffkunde I;1;0;2
+BB;1030;3/101;Baustoffkunde I;1;6;8
+BB;1050;3/101;Bauphysik;2;0;1
+BB;2010;3/101;Mathematik II;2;5;7
+BB;2010;3/101;Mathematik II;3;0;2
+BB;2010;3/101;Mathematik II;3;6;8
+BB;2020;3/101;Mechanik II;4;0;2
+BB;2020;3/101;Mechanik II;4;6;8
+BB;2030;3/101;Baustoffkunde II;5;0;2
+BB;2030;3/101;Baustoffkunde II;5;6;8
+BB;2030;3/101;Baustoffkunde II;6;0;2
+BB;2040;3/101;Geotechnik I;6;6;7
+BB;2040;3/101;Geotechnik I;7;0;1
+BB;2060;3/101;Vermessungskunde;7;5;6
+BB;2060;3/101;Vermessungskunde;8;0;1
+BB;2070;3/101;Wirtschaft, Recht, Ma. II;8;5;7
+BB;2070;3/101;Wirtschaft, Recht, Ma. II;9;0;2
+BB;3010;3/101;Baustatik I;9;6;8
+BB;3020;3/101;Geotechnik II;10;0;2
+BB;3030;3/101;Konstrukt. Ingenieurbau I;10;6;8
+BB;3050;3/111;Wasserwesen;1;0;2
+BB;3060;3/111;Baubetrieb I;1;6;8
+BB;4010;3/111;Geotechnik III;2;0;1
+BB;4010;3/111;Geotechnik III;2;5;6
+BB;4010;3/111;Geotechnik III;3;0;1
+BB;4020;3/111;Konstrukt. Ingenieurb. II;3;5;7
+BB;4020;3/111;Konstrukt. Ingenieurb. II;4;0;2
+BB;4020;3/111;Konstrukt. Ingenieurb. II;4;6;8
+BB;4030;3/111;Konstruk. Ingenieurb. III;5;0;2
+BB;4030;3/111;Konstruk. Ingenieurb. III;5;6;8
+BB;4030;3/111;Konstruk. Ingenieurb. III;6;0;2
+BB;4040;3/111;Verkehrswesen II;6;6;7
+BB;4040;3/111;Verkehrswesen II;7;0;1
+BB;4050;3/111;Siedlungswasserwirtsch. I;7;5;6
+BB;4050;3/111;Siedlungswasserwirtsch. I;8;0;1
+BB;4060;3/111;Wasserwirtschaft/-bau I;8;5;6
+BB;4060;3/111;Wasserwirtschaft/-bau I;9;0;1
+BB;5011;3/111;Arbeitsschutz;9;5;6
+BB;5011;3/111;Arbeitsschutz;10;0;1
+BB;17110;3/111;Bauen m. vorgefert. Elem.;10;5;6
+BB;17170;3/201;Sonderf.der Kalkulation;1;0;1
+BB;17180;3/201;Schalung und Rüstung;1;5;6
+BB;17200;3/201;Brandschutz;2;0;1
+BB;601921010;3/201;Mathematik I;2;5;6
+BB;601921010;3/201;Mathematik I;3;0;1
+BB;601921010;3/201;Mathematik I;3;5;6
+BB;601921010;3/201;Mathematik I;4;0;1
+BB;601921010;3/201;Mathematik I;4;5;6
+BB;601921030;3/201;Baustoffkunde I;5;0;2
+BB;601921030;3/201;Baustoffkunde I;5;6;8
+BB;601921030;3/201;Baustoffkunde I;6;0;2
+BB;601921030;3/201;Baustoffkunde I;6;6;8
+BB;601921030;3/201;Baustoffkunde I;7;0;2
+BB;601921050;3/201;Vermessungskunde;7;6;7
+BB;601921050;3/201;Vermessungskunde;8;0;1
+BB;601921050;3/201;Vermessungskunde;8;5;6
+BB;601921050;3/201;Vermessungskunde;9;0;1
+BB;601921050;3/201;Vermessungskunde;9;5;6
+BB;601921060;3/201;Bauphysik;10;0;1
+BB;601921060;3/201;Bauphysik;10;5;6
+BB;601921060;3/203;Bauphysik;1;0;1
+BB;601921060;3/203;Bauphysik;1;5;6
+BB;601921060;3/203;Bauphysik;2;0;1
+BB;601921060;3/203;Bauphysik;2;5;6
+BB;601921070;3/203;Wirtschaft und Management;3;0;1
+BB;601921070;3/203;Wirtschaft und Management;3;5;6
+BB;601921070;3/203;Wirtschaft und Management;4;0;1
+BB;601921070;3/203;Wirtschaft und Management;4;5;6
+BB;601921070;3/203;Wirtschaft und Management;5;0;1
+BB;601921070;3/203;Wirtschaft und Management;5;5;6
+BB;601921070;3/203;Wirtschaft und Management;6;0;1
+BB;601922020;3/203;Mechanik II;6;5;7
+BB;601922030;3/203;Baustoffkunde II;7;0;2
+BB;601923010;3/203;Baustatik I;7;6;8
+BB;601923010;3/203;Baustatik I;8;0;2
+BB;601923010;3/203;Baustatik I;8;6;8
+BB;601923020;3/203;Geotechnik II;9;0;2
+BB;601923020;3/203;Geotechnik II;9;6;8
+BB;601923020;3/203;Geotechnik II;10;0;2
+BB;601923030;3/203;Stahlbau I;10;6;8
+BB;601923030;3/211;Stahlbau I;1;0;2
+BB;601923030;3/211;Stahlbau I;1;6;8
+BB;601923030;3/211;Stahlbau I;2;0;2
+BB;601923030;3/211;Stahlbau I;2;6;8
+BB;601923050;3/211;Wasserwesen;3;0;2
+BB;601923050;3/211;Wasserwesen;3;6;8
+BB;601923050;3/211;Wasserwesen;4;0;2
+BB;601923050;3/211;Wasserwesen;4;6;8
+BB;601923050;3/211;Wasserwesen;5;0;2
+BB;601923050;3/211;Wasserwesen;5;6;8
+BB;601923060;3/211;Bauproduktionstechnik;6;0;1
+BB;601923060;3/211;Bauproduktionstechnik;6;5;6
+BB;601923060;3/211;Bauproduktionstechnik;7;0;1
+BB;601923060;3/211;Bauproduktionstechnik;7;5;6
+BB;601923060;3/211;Bauproduktionstechnik;8;0;1
+BB;601924040;3/211;Verkehrswesen II;8;5;6
+BB;601924050;3/211;Siedlungswasserwirtsch. I;9;0;1
+BB;6020;3/211;Planung u. Konstruktion I;9;5;6
+BB;6020;3/211;Planung u. Konstruktion I;10;0;1
+BB;6020;3/211;Planung u. Konstruktion I;10;5;6
+BB;6020;3/212;Planung u. Konstruktion I;1;0;1
+BB;6020;3/212;Planung u. Konstruktion I;1;5;6
+BB;6030;3/212;Planung/Konstruktion II;2;0;2
+BB;6030;3/212;Planung/Konstruktion II;2;6;8
+BB;6030;3/212;Planung/Konstruktion II;3;0;2
+BB;6030;3/212;Planung/Konstruktion II;3;6;8
+BB;6030;3/212;Planung/Konstruktion II;4;0;2
+BB;6040;3/212;Baumanagement I;4;6;8
+BB;6040;3/212;Baumanagement I;5;0;2
+BB;6040;3/212;Baumanagement I;5;6;8
+BB;6040;3/212;Baumanagement I;6;0;2
+BB;6040;3/212;Baumanagement I;6;6;8
+BB;6050;3/212;Baumanagement II;7;0;1
+BB;6050;3/212;Baumanagement II;7;5;6
+BB;6050;3/212;Baumanagement II;8;0;1
+BB;6060;3/212;Baumanagement III;8;5;6
+BB;6060;3/212;Baumanagement III;9;0;1
+BB;7030;3/212;Baubetriebswirtsch.;9;5;7
+BB;7030;3/212;Baubetriebswirtsch.;10;0;2
+BB;7030;3/212;Baubetriebswirtsch.;10;6;8
+BB;7030;3/214;Baubetriebswirtsch.;1;0;2
+BB;7030;3/214;Baubetriebswirtsch.;1;6;8
+BB;6020;3/214;Baustatik II;2;0;3
+BB;6020;3/214;Baustatik II;2;7;10
+BB;6020;3/214;Baustatik II;3;0;3
+BB;6020;3/214;Baustatik II;3;7;10
+BB;6020;3/214;Baustatik II;4;0;3
+BB;6030;3/214;Stahl-/Spannbetonbau;4;7;10
+BB;6030;3/214;Stahl-/Spannbetonbau;5;0;3
+BB;6030;3/214;Stahl-/Spannbetonbau;5;7;10
+BB;6030;3/214;Stahl-/Spannbetonbau;6;0;3
+BB;6030;3/214;Stahl-/Spannbetonbau;6;7;10
+BB;6040;3/214;Stahlbau;7;0;2
+BB;6040;3/214;Stahlbau;7;6;8
+BB;6040;3/214;Stahlbau;8;0;2
+BB;6040;3/214;Stahlbau;8;6;8
+BB;6040;3/214;Stahlbau;9;0;2
+BB;7020;3/214;Geotechnik IV;9;6;8
+BB;7020;3/214;Geotechnik IV;10;0;2
+BB;7020;3/214;Geotechnik IV;10;6;8
+BB;7030;3/215;Ingenieurholzbau;1;0;2
+BB;7030;3/215;Ingenieurholzbau;1;6;8
+BB;7030;3/215;Ingenieurholzbau;2;0;2
+BB;7030;3/215;Ingenieurholzbau;2;6;8
+BB;7030;3/215;Ingenieurholzbau;3;0;2
+BB;6020;3/215;Verkehrswesen III;3;6;8
+BB;6020;3/215;Verkehrswesen III;4;0;2
+BB;6020;3/215;Verkehrswesen III;4;6;8
+BB;6020;3/215;Verkehrswesen III;5;0;2
+BB;6020;3/215;Verkehrswesen III;5;6;8
+BB;6030;3/215;Hydromechanik;6;0;1
+BB;6030;3/215;Hydromechanik;6;5;6
+BB;6030;3/215;Hydromechanik;7;0;1
+BB;6030;3/215;Hydromechanik;7;5;6
+BB;6030;3/215;Hydromechanik;8;0;1
+BB;6040;3/215;Siedlungswasserwirtschaft;8;5;7
+BB;6040;3/215;Siedlungswasserwirtschaft;9;0;2
+BB;6040;3/215;Siedlungswasserwirtschaft;9;6;8
+BB;6040;3/215;Siedlungswasserwirtschaft;10;0;2
+BB;6040;3/215;Siedlungswasserwirtschaft;10;6;8
+BB;6050;3/223;Wasserwirtschaft/-bau;1;0;2
+BB;6050;3/223;Wasserwirtschaft/-bau;1;6;8
+BB;7020;3/223;Abfallwirtschaft;2;0;2
+BB;7020;3/223;Abfallwirtschaft;2;6;8
+BB;7030;3/223;Verkehrswesen IV;3;0;2
+BB;7030;3/223;Verkehrswesen IV;3;6;8
+BB;7030;3/223;Verkehrswesen IV;4;0;2
+BW;3191;3/223;Wirtschaftsenglisch 1;4;6;7
+BW;3191;3/223;Wirtschaftsenglisch 1;5;0;1
+BW;3191;3/223;Wirtschaftsenglisch 1;5;5;6
+BW;9000;3/223;Wirtschaftswissensch.Grdl;6;0;2
+BW;9001;3/223;Grundl.Recht und Steuern;6;6;8
+BW;9001;3/223;Grundl.Recht und Steuern;7;0;2
+BW;9001;3/223;Grundl.Recht und Steuern;7;6;8
+BW;9001;3/223;Grundl.Recht und Steuern;8;0;2
+BW;9002;3/223;Grundz.d Unternehmensf.;8;6;7
+BW;9003;3/223;Grundz. d. Personalwes.;9;0;1
+BW;9003;3/223;Grundz. d. Personalwes.;9;5;6
+BW;9003;3/223;Grundz. d. Personalwes.;10;0;1
+BW;9003;3/223;Grundz. d. Personalwes.;10;5;6
+BW;9004;3/224;Grundzüge des Marketing;1;0;1
+BW;9004;3/224;Grundzüge des Marketing;1;5;6
+BW;9004;3/224;Grundzüge des Marketing;2;0;1
+BW;9005;3/224;Grdl.Quantitative Method.;2;5;7
+BW;9005;3/224;Grdl.Quantitative Method.;3;0;2
+BW;9005;3/224;Grdl.Quantitative Method.;3;6;8
+BW;9006;3/224;Grdl.Qualtitativer Proze.;4;0;2
+BW;9006;3/224;Grdl.Qualtitativer Proze.;4;6;8
+BW;9006;3/224;Grdl.Qualtitativer Proze.;5;0;2
+BW;9007;3/224;Grdl.Geschäftsab.Finanzen;5;6;8
+BW;9007;3/224;Grdl.Geschäftsab.Finanzen;6;0;2
+BW;9007;3/224;Grdl.Geschäftsab.Finanzen;6;6;8
+BW;9008;3/224;Grundl. d.Unternehmsrech.;7;0;2
+BW;9008;3/224;Grundl. d.Unternehmsrech.;7;6;8
+BW;9008;3/224;Grundl. d.Unternehmsrech.;8;0;2
+BW;9009;3/224;Grdl. logist. Prozesse;8;6;8
+BW;9009;3/224;Grdl. logist. Prozesse;9;0;2
+BW;9009;3/224;Grdl. logist. Prozesse;9;6;8
+BW;9010;3/224;Grdl.technischer Prozesse;10;0;2
+BW;611929000;3/224;Volkswirtschaftslehre;10;6;8
+BW;611929000;2/264;Volkswirtschaftslehre;1;0;2
+BW;611929000;2/264;Volkswirtschaftslehre;1;6;8
+BW;611929000;2/264;Volkswirtschaftslehre;2;0;2
+BW;611929000;2/264;Volkswirtschaftslehre;2;6;8
+BW;611929001;2/264;Quantitative Methoden 1;3;0;3
+BW;611929001;2/264;Quantitative Methoden 1;3;7;10
+BW;611929001;2/264;Quantitative Methoden 1;4;0;3
+BW;611929001;2/264;Quantitative Methoden 1;4;7;10
+BW;611929001;2/264;Quantitative Methoden 1;5;0;3
+BW;611929001;2/264;Quantitative Methoden 1;5;7;10
+BW;611929002;2/264;Management;6;0;2
+BW;611929002;2/264;Management;6;6;8
+BW;611929002;2/264;Management;7;0;2
+BW;611929002;2/264;Management;7;6;8
+BW;611929002;2/264;Management;8;0;2
+BW;611929002;2/264;Management;8;6;8
+BW;611929002;2/264;Management;9;0;2
+BW;611929003;2/264;Betriebl.Rechnungswesen;9;6;8
+BW;611929003;2/264;Betriebl.Rechnungswesen;10;0;2
+BW;611929003;2/264;Betriebl.Rechnungswesen;10;6;8
+BW;611929003;2/301;Betriebl.Rechnungswesen;1;0;2
+BW;611929003;2/301;Betriebl.Rechnungswesen;1;6;8
+BW;611929003;2/301;Betriebl.Rechnungswesen;2;0;2
+BW;611929004;2/301;Produktions-u.Technolog.;2;6;8
+BW;611929004;2/301;Produktions-u.Technolog.;3;0;2
+BW;611929004;2/301;Produktions-u.Technolog.;3;6;8
+BW;611929004;2/301;Produktions-u.Technolog.;4;0;2
+BW;611929004;2/301;Produktions-u.Technolog.;4;6;8
+BW;611929004;2/301;Produktions-u.Technolog.;5;0;2
+BW;611929004;2/301;Produktions-u.Technolog.;5;6;8
+BW;3091;2/301;Beschaffung und Logistik;6;0;2
+BW;3091;2/301;Beschaffung und Logistik;6;6;8
+BW;3092;2/301;Dienstleistungsmanagement;7;0;2
+BW;3092;2/301;Dienstleistungsmanagement;7;6;8
+BW;3092;2/301;Dienstleistungsmanagement;8;0;2
+BW;3092;2/301;Dienstleistungsmanagement;8;6;8
+BW;3092;2/301;Dienstleistungsmanagement;9;0;2
+BW;5094;2/301;Bilanzpolitik und Bilanza;9;6;8
+BW;5096;2/301;Kapitalmärkte und Banken;10;0;2
+BW;5097;2/301;Marketing und Vertrieb;10;6;8
+BW;5097;2/214;Marketing und Vertrieb;1;0;2
+BW;5097;2/214;Marketing und Vertrieb;1;6;8
+BW;5097;2/214;Marketing und Vertrieb;2;0;2
+BW;5141;2/214;Operations Research;2;6;8
+BW;5141;2/214;Operations Research;3;0;2
+BW;5141;2/214;Operations Research;3;6;8
+BW;5141;2/214;Operations Research;4;0;2
+BW;5141;2/214;Operations Research;4;6;8
+BW;5141;2/214;Operations Research;5;0;2
+BW;5141;2/214;Operations Research;5;6;8
+BW;9013;2/214;Recht und Steuern;6;0;2
+BW;9013;2/214;Recht und Steuern;6;6;8
+BW;9013;2/214;Recht und Steuern;7;0;2
+BW;9013;2/214;Recht und Steuern;7;6;8
+BW;9013;2/214;Recht und Steuern;8;0;2
+BW;9013;2/214;Recht und Steuern;8;6;8
+BW;9013;2/214;Recht und Steuern;9;0;2
+BW;9013;2/214;Recht und Steuern;9;6;8
+BW;9013;2/214;Recht und Steuern;10;0;2
+BW;9015;2/214;Nat.u.Intern. Rechnungsl.;10;6;8
+BW;9015;1/010;Nat.u.Intern. Rechnungsl.;1;0;2
+BW;9015;1/010;Nat.u.Intern. Rechnungsl.;1;6;8
+BW;9015;1/010;Nat.u.Intern. Rechnungsl.;2;0;2
+BW;9015;1/010;Nat.u.Intern. Rechnungsl.;2;6;8
+BW;9015;1/010;Nat.u.Intern. Rechnungsl.;3;0;2
+BW;9016;1/010;Controlling;3;6;8
+BW;9016;1/010;Controlling;4;0;2
+BW;9016;1/010;Controlling;4;6;8
+BW;9016;1/010;Controlling;5;0;2
+BW;9020;1/010;Corporate Finance;5;6;8
+BW;9020;1/010;Corporate Finance;6;0;2
+BW;9020;1/010;Corporate Finance;6;6;8
+BW;9020;1/010;Corporate Finance;7;0;2
+GM;1011;1/010;PVL Economics and Bus.Inf;7;6;8
+GM;1011;1/010;PVL Economics and Bus.Inf;8;0;2
+GM;1011;1/010;PVL Economics and Bus.Inf;8;6;8
+GM;9011;1/010;Intern. Business Law;9;0;2
+GM;9011;1/010;Intern. Business Law;9;6;8
+GM;9011;1/010;Intern. Business Law;10;0;2
+GP;1020;1/010;Theoretische Gebäudephysi;10;6;9
+GP;17120;1/013;Körperschall u.inno.Lärm;1;0;2
+GP;17130;1/013;Schallschutz 1;1;6;7
+GP;17150;1/013;Heizung, Klima, Lüftung;2;0;2
+GT;1030;1/013;Stahl- und Stahlbetonbau;2;6;9
+GT;1050;1/013;Tunnelbau 1;3;0;1
+GT;2050;1/013;Wirtschaft, Recht, Manag.;3;5;8
+GTM;911921010;1/013;Strukturmechanik;4;0;3
+GTM;911921020;1/013;Geomechanik 1;4;7;10
+GTM;911921050;1/013;Tunnelbau 1;5;0;2
+GTM;911921060;1/013;Recht;5;6;8
+GTM;911922010;1/013;Geomechanik 2;6;0;2
+GTM;911922020;1/013;Numerische Verfahren Geo.;6;6;8
+GTM;911922040;1/013;Tunnelbau 2;7;0;2
+GTM;911922050;1/013;Wirtschaft und Management;7;6;8
+GTM;911922010;1/013;Geomechanik 2;8;0;2
+GTM;911922020;1/013;Numerische Verfahren Geo.;8;6;8
+IB;2030;1/013;Fachwissen Innenraum 2;9;0;2
+IB;2040;1/013;Fachwissen Möbel 2;9;6;7
+IB;2050;1/013;Fachw. Kul. u. Humanw. 2;10;0;2
+IB;3050;1/013;Fachw. Kul. u. Humanw. 3;10;6;8
+IB;4030;1/020;Fachwissen Innenraum 4;1;0;2
+IB;4040;1/020;Fachwissen Möbel 4;1;6;7
+IB;4050;1/020;Fachw. Kul. u. Humanw. 4;2;0;2
+IB;11921050;1/020;1_Wissen;2;6;7
+IB;11921050;1/020;1_Wissen;3;0;1
+IB;11921050;1/020;1_Wissen;3;5;6
+IB;11921050;1/020;1_Wissen;4;0;1
+IB;11921050;1/020;1_Wissen;4;5;6
+IB;11921120;1/020;WPF Fremdsprache;5;0;1
+IB;11923055;1/020;3_Designgeschichte;5;5;6
+IB;11923055;1/020;3_Designgeschichte;6;0;1
+IB;11923055;1/020;3_Designgeschichte;6;5;6
+IB;11923055;1/020;3_Designgeschichte;7;0;1
+IF;1020;1/020;Diskrete Mathematik;7;5;7
+IF;1020;1/020;Diskrete Mathematik;8;0;2
+IF;1020;1/020;Diskrete Mathematik;8;6;8
+IF;1030;1/020;Einführ. i.d. Informatik;9;0;1
+IF;1030;1/020;Einführ. i.d. Informatik;9;5;6
+IF;1050;1/020;Betriebswirtschaftslehre;10;0;2
+IF;1050;1/020;Betriebswirtschaftslehre;10;6;8
+IF;1050;L/107;Betriebswirtschaftslehre;1;0;2
+IF;1050;L/107;Betriebswirtschaftslehre;1;6;8
+IF;2010;L/107;Mathematik 2;2;0;2
+IF;2010;L/107;Mathematik 2;2;6;8
+IF;2010;L/107;Mathematik 2;3;0;2
+IF;2020;L/107;Lineare Algebra;3;6;7
+IF;2020;L/107;Lineare Algebra;4;0;1
+IF;2020;L/107;Lineare Algebra;4;5;6
+IF;2020;L/107;Lineare Algebra;5;0;1
+IF;2020;L/107;Lineare Algebra;5;5;6
+IF;2030;L/107;Programmieren 2;6;0;2
+IF;2030;L/107;Programmieren 2;6;6;8
+IF;2030;L/107;Programmieren 2;7;0;2
+IF;2030;L/107;Programmieren 2;7;6;8
+IF;3011;L/107;Numerik;8;0;2
+IF;3012;L/107;Statistik;8;6;8
+IF;3012;L/107;Statistik;9;0;2
+IF;3012;L/107;Statistik;9;6;8
+IF;3013;L/107;Operations Research;10;0;2
+IF;3020;L/107;Datenstrukt.u.Algorithmen;10;6;8
+IF;3020;L/106;Datenstrukt.u.Algorithmen;1;0;2
+IF;3020;L/106;Datenstrukt.u.Algorithmen;1;6;8
+IF;3020;L/106;Datenstrukt.u.Algorithmen;2;0;2
+IF;3020;L/106;Datenstrukt.u.Algorithmen;2;6;8
+IF;3020;L/106;Datenstrukt.u.Algorithmen;3;0;2
+IF;3030;L/106;Software-Technik;3;6;8
+IF;3030;L/106;Software-Technik;4;0;2
+IF;3030;L/106;Software-Technik;4;6;8
+IF;3030;L/106;Software-Technik;5;0;2
+IF;3030;L/106;Software-Technik;5;6;8
+IF;3030;L/106;Software-Technik;6;0;2
+IF;3050;L/106;Theoretische Informatik;6;6;8
+IF;3050;L/106;Theoretische Informatik;7;0;2
+IF;3050;L/106;Theoretische Informatik;7;6;8
+IF;3050;L/106;Theoretische Informatik;8;0;2
+IF;3050;L/106;Theoretische Informatik;8;6;8
+IF;3050;L/106;Theoretische Informatik;9;0;2
+IF;4010;L/106;Datenbanksysteme;9;6;7
+IF;4050;L/106;Kommunikationssysteme;10;0;2
+IF;4050;L/106;Kommunikationssysteme;10;6;8
+IF;4050;L/111;Kommunikationssysteme;1;0;2
+IF;4050;L/111;Kommunikationssysteme;1;6;8
+IF;4050;L/111;Kommunikationssysteme;2;0;2
+IF;7010;L/111;Betriebspsychologie;2;6;7
+IF;7010;L/111;Betriebspsychologie;3;0;1
+IF;7020;L/111;Recht;3;5;6
+IF;7020;L/111;Recht;4;0;1
+IL;3010;L/111;Modellierung raumb. Daten;4;5;7
+IL;3020;L/111;Datenstrukturen/Algorithm;5;0;2
+IL;3030;L/111;IT in der Logistik;5;6;8
+IL;3050;L/111;Operations Research;6;0;2
+IL;4010;L/111;Datenbanksysteme;6;6;7
+IL;4020;L/111;Messsysteme räuml. Objek;7;0;2
+IL;4030;L/111;Verteilte Systeme u.Netzw;7;6;8
+IL;4040;L/111;Techn. Kommunikationsman.;8;0;2
+IL;4050;L/111;Recht;8;6;7
+IL;6020;L/111;Analyse raumbez. Daten;9;0;2
+IL;7020;L/111;Content Management;9;6;7
+IL;7020;L/111;Content Management;10;0;1
+IL;17300;L/111;Software Engineering;10;5;7
+IL;17500;L/116;eCommerce;1;0;2
+IL;1030;L/116;Grundl. d. Informationsl.;1;6;8
+IL;1030;L/116;Grundl. d. Informationsl.;2;0;2
+IL;1030;L/116;Grundl. d. Informationsl.;2;6;8
+IL;1040;L/116;Einf. Logistik u. Betw.;3;0;2
+IL;1040;L/116;Einf. Logistik u. Betw.;3;6;8
+IL;1040;L/116;Einf. Logistik u. Betw.;4;0;2
+IL;1040;L/116;Einf. Logistik u. Betw.;4;6;8
+IL;1050;L/116;Fremdsprachen 1;5;0;1
+IL;1050;L/116;Fremdsprachen 1;5;5;6
+IL;1050;L/116;Fremdsprachen 1;6;0;1
+IL;1050;L/116;Fremdsprachen 1;6;5;6
+IL;2010;L/116;Mathematik 2;7;0;2
+IL;2020;L/116;Programmieren 2;7;6;8
+IL;2030;L/116;Aktoren;8;0;1
+IL;2040;L/116;Telematik;8;5;7
+IL;2050;L/116;Sensoren u. Auswerttechni;9;0;2
+IL;2060;L/116;Fremdsprachen 2;9;6;7
+IL;3010;L/116;Modellierung raumb. Daten;10;0;2
+IL;3010;L/116;Modellierung raumb. Daten;10;6;8
+IL;3020;L/123;Datenstrukturen/Algorithm;1;0;2
+IL;3030;L/123;IT in der Logistik;1;6;8
+IL;3030;L/123;IT in der Logistik;2;0;2
+IL;3050;L/123;Operations Research;2;6;8
+IM;3030;L/123;Verkehrsinfrastruktur 2;3;0;2
+IM;3040;L/123;Projektentw./Baumanag. 2;3;6;8
+IM;3050;L/123;Unternehmensführung 2;4;0;2
+IM;5020;L/123;Projektentw./Baumanag. 3;4;6;7
+IM;5030;L/123;Unternehmensführung 3;5;0;3
+IM;6010;L/123;Siedlungswasserwirtschaft;5;7;10
+IM;6010;L/123;Siedlungswasserwirtschaft;6;0;3
+IM;6020;L/123;Abfallwirtschaft;6;7;9
+IM;6020;L/123;Abfallwirtschaft;7;0;2
+IM;6040;L/123;Verkehrsinfrastruktur 3;7;6;8
+IM;6040;L/123;Verkehrsinfrastruktur 3;8;0;2
+IM;6050;L/123;Öffentliche Verwaltung;8;6;7
+IM;6050;L/123;Öffentliche Verwaltung;9;0;1
+IM;7010;L/123;Recht 2;9;5;7
+IM;7010;L/123;Recht 2;10;0;2
+IM;7030;L/123;Energie 3;10;6;7
+IM;7030;L/125;Energie 3;1;0;1
+IM;7040;L/125;Umweltmanagement;1;5;6
+IM;7040;L/125;Umweltmanagement;2;0;1
+IM;1010;L/125;Mathematik 1;2;5;7
+IM;1010;L/125;Mathematik 1;3;0;2
+IM;1010;L/125;Mathematik 1;3;6;8
+IM;1020;L/125;Einführung in die Inf.;4;0;1
+IM;1020;L/125;Einführung in die Inf.;4;5;6
+IM;1020;L/125;Einführung in die Inf.;5;0;1
+IM;1020;L/125;Einführung in die Inf.;5;5;6
+IM;1020;L/125;Einführung in die Inf.;6;0;1
+IM;1040;L/125;Physik für Ingenieure;6;5;7
+IM;1040;L/125;Physik für Ingenieure;7;0;2
+IM;1040;L/125;Physik für Ingenieure;7;6;8
+IM;1040;L/125;Physik für Ingenieure;8;0;2
+IM;1040;L/125;Physik für Ingenieure;8;6;8
+IM;1040;L/125;Physik für Ingenieure;9;0;2
+IM;1050;L/125;Wirtschaftslehre;9;6;7
+IM;1050;L/125;Wirtschaftslehre;10;0;1
+IM;1050;L/125;Wirtschaftslehre;10;5;6
+IM;1050;L/126;Wirtschaftslehre;1;0;1
+IM;1050;L/126;Wirtschaftslehre;1;5;6
+IM;1060;L/126;Baustoffe u. Geotechnik 1;2;0;2
+IM;1060;L/126;Baustoffe u. Geotechnik 1;2;6;8
+IM;1060;L/126;Baustoffe u. Geotechnik 1;3;0;2
+IM;1060;L/126;Baustoffe u. Geotechnik 1;3;6;8
+IM;1060;L/126;Baustoffe u. Geotechnik 1;4;0;2
+IM;1060;L/126;Baustoffe u. Geotechnik 1;4;6;8
+IM;2010;L/126;Mathematik 2;5;0;2
+IM;2010;L/126;Mathematik 2;5;6;8
+IM;2010;L/126;Mathematik 2;6;0;2
+IM;2010;L/126;Mathematik 2;6;6;8
+IM;2020;L/126;Baustoffe u. Geotechnik 2;7;0;1
+IM;2020;L/126;Baustoffe u. Geotechnik 2;7;5;6
+IM;2030;L/126;Verkehrsinfrastruktur 1;8;0;3
+IM;2030;L/126;Verkehrsinfrastruktur 1;8;7;10
+IM;2030;L/126;Verkehrsinfrastruktur 1;9;0;3
+IM;2040;L/126;Energie 1;9;7;9
+IM;2040;L/126;Energie 1;10;0;2
+IM;2040;L/126;Energie 1;10;6;8
+IM;2050;L/128;Projektmanag.u.-entw.1;1;0;2
+IM;2050;L/128;Projektmanag.u.-entw.1;1;6;8
+IM;2050;L/128;Projektmanag.u.-entw.1;2;0;2
+IM;2060;L/128;Bau-/Immobilienwirtschaft;2;6;7
+IM;2060;L/128;Bau-/Immobilienwirtschaft;3;0;1
+IM;2060;L/128;Bau-/Immobilienwirtschaft;3;5;6
+IM;3010;L/128;Versorgungstechnik;4;0;2
+IM;3010;L/128;Versorgungstechnik;4;6;8
+IM;3030;L/128;Recht 1;5;0;2
+IM;3030;L/128;Recht 1;5;6;8
+IM;3030;L/128;Recht 1;6;0;2
+IM;3040;L/128;Wasserfachliche Grdl.;6;6;7
+IM;3040;L/128;Wasserfachliche Grdl.;7;0;1
+IM;3050;L/128;Verkehrsinfrastruktur 2;7;5;7
+IM;3050;L/128;Verkehrsinfrastruktur 2;8;0;2
+IM;3060;L/128;Projektmanagem.-u.entw.2;8;6;8
+IM;3060;L/128;Projektmanagem.-u.entw.2;9;0;2
+IM;3070;L/128;Unternehmensführung 1;9;6;7
+IM;3070;L/128;Unternehmensführung 1;10;0;1
+IM;3070;L/128;Unternehmensführung 1;10;5;6
+IM;4015;1/U27;Grundlagen Arbeitsschutz;1;0;1
+IM;4015;1/U27;Grundlagen Arbeitsschutz;1;5;6
+IM;4015;1/U27;Grundlagen Arbeitsschutz;2;0;1
+IM;5000;1/U27;Arbeitsschutzmanagement;2;5;6
+IM;5000;1/U27;Arbeitsschutzmanagement;3;0;1
+IM;5010;1/U27;Gebäudeenergietechn.;3;5;7
+IM;5010;1/U27;Gebäudeenergietechn.;4;0;2
+IM;5020;1/U27;Projektentw./Baumanag. 3;4;6;7
+IM;5020;1/U27;Projektentw./Baumanag. 3;5;0;1
+IM;5030;1/U27;Öffentl.Verwaltung.,Regul;5;5;6
+IM;5030;1/U27;Öffentl.Verwaltung.,Regul;6;0;1
+IM;5030;1/U27;Öffentl.Verwaltung.,Regul;6;5;6
+IM;6010;1/U27;Siedlungswasserwirtschaft;7;0;3
+IM;6030;1/U27;Verkehrsinfrastruktur 3;7;7;9
+KE;1010;1/U27;Angew.Mathematik 1;8;0;2
+KE;1020;1/U27;Physikalische Grundl.1;8;6;8
+KE;1030;1/U27;Gebäudetechnik 1;9;0;1
+KE;1040;1/U27;Baukonst. u.Entwerfen 1;9;5;6
+KE;1060;1/U27;Baugesch.u.Gebäudelehre;10;0;1
+KE;1060;1/U27;Baugesch.u.Gebäudelehre;10;5;6
+KE;2010;1/U28;Angwe. Mathematik 2;1;0;2
+KE;2020;1/U28;Physikalische Grundl. 2;1;6;8
+KE;2040;1/U28;Simulationswerkzeuge 1;2;0;4
+KE;2060;1/U28;Tragswerksl. u. Material.;2;8;10
+KE;6050;1/U28;Baugeschichte und Ethik;3;0;1
+KE;17490;1/U28;Mathematik 4;3;5;7
+KI;1010;1/U28;Entw Erd-/Grund-/Tunnelb.;4;0;1
+KI;1030;1/U28;Strukturmechanik 1;4;5;7
+KI;1040;1/U28;Beme./Konstr. Leichtbau 1;5;0;3
+KI;2020;1/U28;Strukturmechanik 2;5;7;9
+KI;2030;1/U28;Bemessen/Konst. Massivbau;6;0;3
+KI;2040;1/U28;Beme./Konstr. Leichtbau 2;6;7;9
+KI;921921060;1/U28;Recht;7;0;1
+KI;921922020;1/U28;Strukturmechanik 2;7;5;7
+KI;921922030;1/U28;Massivbau;8;0;3
+KI;921922040;1/U28;Leichtbau;8;7;9
+KI;921922020;1/U28;Strukturmechanik 2;9;0;2
+KI;921922030;1/U28;Massivbau;9;6;9
+MA;2040;1/U28;Management und Recht 2;10;0;2
+MA;301923020;1/U28;Kostenmanagement;10;6;8
+MA;301923020;3/323;Kostenmanagement;1;0;2
+MA;301928180;3/323;WPF Techn. Infrastruktur;1;6;8
+MB;1010;3/323;Analysis 1;2;0;2
+MB;1010;3/323;Analysis 1;2;6;8
+MB;1010;3/323;Analysis 1;3;0;2
+MB;1020;3/323;Lineare Algebra 1;3;6;8
+MB;1020;3/323;Lineare Algebra 1;4;0;2
+MB;2010;3/323;Analysis 2;4;6;8
+MB;2010;3/323;Analysis 2;5;0;2
+MB;2010;3/323;Analysis 2;5;6;8
+MB;2020;3/323;Lineare Algebra 2;6;0;2
+MB;2020;3/323;Lineare Algebra 2;6;6;8
+MB;2020;3/323;Lineare Algebra 2;7;0;2
+MB;2030;3/323;Math. Anwendungen 2;7;6;7
+MB;2030;3/323;Math. Anwendungen 2;8;0;1
+MB;2030;3/323;Math. Anwendungen 2;8;5;6
+MB;2040;3/323;Grundlagen Informatik 2;9;0;2
+MB;2040;3/323;Grundlagen Informatik 2;9;6;8
+MB;2040;3/323;Grundlagen Informatik 2;10;0;2
+MB;3010;3/323;Stochastik;10;6;8
+MB;3010;8/008;Stochastik;1;0;2
+MB;3010;8/008;Stochastik;1;6;8
+MB;3020;8/008;Software Engineering;2;0;2
+MB;3020;8/008;Software Engineering;2;6;8
+MB;3020;8/008;Software Engineering;3;0;2
+MB;4010;8/008;Analysis 3;3;6;8
+MB;4040;8/008;Datenstrukturen/Algorith.;4;0;2
+MB;6010;8/008;Funktionentheorie;4;6;8
+MB;7010;8/008;Datenbanksysteme;5;0;1
+MB;1010;8/008;Analysis 1;5;5;7
+MB;1020;8/008;Lineare Algebra 1;6;0;2
+MB;2010;8/008;Analysis 2;6;6;8
+MB;3010;8/008;Grundlagen Informatik 2;7;0;2
+MB;3020;8/008;Lineare Algebra 2;7;6;8
+MB;3030;8/008;Math. Anwendungen 2;8;0;1
+MB;4050;8/008;Wirtschaft;8;5;7
+MB;17220;8/008;Versicherungsmathematik 2;9;0;2
+MM;2020;8/008;Numerische Mathematik;9;6;8
+PB;2030;8/008;Mathematik 2;10;0;2
+PB;4030;8/008;Mathematik 4;10;6;8
+PB;6010;8/023;Theoret. Bauphysik Wärme;1;0;2
+PB;6050;8/023;Energietechnik 3;1;6;8
+PB;7010;8/023;Theoret. Bauphysik Schall;2;0;2
+PB;7010;8/023;Theoret. Bauphysik Schall;2;6;8
+PB;7040;8/023;Betriebspsychologie;3;0;1
+PB;7040;8/023;Betriebspsychologie;3;5;6
+PB;1010;8/023;Grundlagen Bauphysik 1;4;0;2
+PB;1010;8/023;Grundlagen Bauphysik 1;4;6;8
+PB;1020;8/023;Grundlagen Physik 1;5;0;2
+PB;1020;8/023;Grundlagen Physik 1;5;6;8
+PB;1040;8/023;Grundlagen Bau 1;6;0;2
+PB;1040;8/023;Grundlagen Bau 1;6;6;8
+PB;1050;8/023;Betriebswirtschaftslehre;7;0;1
+PB;1050;8/023;Betriebswirtschaftslehre;7;5;6
+PB;1060;8/023;Fremdsprache;8;0;1
+PB;2020;8/023;Grundlagen Physik 2;8;5;7
+PB;3010;8/023;Schallschutz 1;9;0;2
+PB;3020;8/023;Wärmeschutz 1;9;6;8
+PB;3030;8/023;Mathematik 3;10;0;1
+PB;3030;8/023;Mathematik 3;10;5;6
+PB;3050;8/043;Energietechnik 1;1;0;2
+PG;1010;8/043;GIS;1;6;9
+PG;1010;8/043;GIS;2;0;3
+PG;1020;8/043;Photogrammetry/Remote S.;2;7;10
+PG;1020;8/043;Photogrammetry/Remote S.;3;0;3
+PG;1030;8/043;Geostatistics /Surface M.;3;7;10
+PG;1030;8/043;Geostatistics /Surface M.;4;0;3
+PG;1040;8/043;Scientific Skills, Inter.;4;7;9
+PG;1040;8/043;Scientific Skills, Inter.;5;0;2
+PG;2020;8/043;Advanced Topics in PRS;5;6;8
+PG;2030;8/043;Geodata: Capture, Sources;6;0;2
+PM;2020;8/043;Managing Business/Finance;6;6;9
+PM;2020;8/043;Managing Business/Finance;7;0;3
+PM;2030;8/043;Managing Information;7;7;8
+PM;1040;8/043;Project Managment;8;0;1
+PM;2010;8/043;Managing Real Estate/Inf.;8;5;6
+PM;2020;8/043;Managing Business/Finance;9;0;3
+PM;2020;8/043;Managing Business/Finance;9;7;10
+PM;2030;8/043;Managing Information;10;0;2
+SP;1040;8/043;Regionalentwicklung;10;6;8
+SP;17860;8/141;Stadtklimatologie;1;0;1
+SP;17860;8/141;Stadtklimatologie;1;5;6
+SP;17880;8/141;Stadtbaugeschichte;2;0;2
+SP;17880;8/141;Stadtbaugeschichte;2;6;8
+SP;17900;8/141;Techn.Infrastruktur;3;0;2
+ST;1010;8/141;Concepts Programm. Lang.;3;6;8
+ST;1020;8/141;Databases II;4;0;2
+ST;1040;8/141;Software Engineering II;4;6;8
+ST;2020;8/141;System Design;5;0;2
+ST;2020;8/141;System Design;5;6;8
+ST;2020;8/141;System Design;6;0;2
+ST;2020;8/141;System Design;6;6;8
+ST;2020;8/141;System Design;7;0;2
+ST;2030;8/141;Software Verification;7;6;8
+ST;2030;8/141;Software Verification;8;0;2
+ST;2030;8/141;Software Verification;8;6;8
+ST;2030;8/141;Software Verification;9;0;2
+ST;2040;8/141;Middleware Technology;9;6;8
+ST;2040;8/141;Middleware Technology;10;0;2
+ST;2040;8/141;Middleware Technology;10;6;8
+ST;2040;8/146;Middleware Technology;1;0;2
+ST;2120;8/146;Business Intelligence;1;6;8
+ST;2120;8/146;Business Intelligence;2;0;2
+ST;2120;8/146;Business Intelligence;2;6;8
+ST;2120;8/146;Business Intelligence;3;0;2
+UL;7200;8/146;Umwelttechnologien;3;6;7
+UL;7200;8/146;Umwelttechnologien;4;0;1
+UL;7200;8/146;Umwelttechnologien;4;5;6
+UL;7300;8/146;Informationstechnologien;5;0;1
+UL;7300;8/146;Informationstechnologien;5;5;6
+UL;7300;8/146;Informationstechnologien;6;0;1
+UL;7400;8/146;Umwelt und Logistik;6;5;7
+UL;7400;8/146;Umwelt und Logistik;7;0;2
+UL;7400;8/146;Umwelt und Logistik;7;6;8
+UL;7500;8/146;Transportmanagement;8;0;2
+UL;7500;8/146;Transportmanagement;8;6;8
+UL;7500;8/146;Transportmanagement;9;0;2
+UL;8400;8/146;Umweltrechnung;9;6;7
+VB;1040;8/146;GMP Polarverfahren;10;0;2
+VB;2010;8/146;Mathematik 2;10;6;8
+VB;2020;8/341;Physik;1;0;2
+VB;4010;8/341;Photogrammetrie;1;6;9
+VB;4020;8/341;Nahbereichsvermessung;2;0;2
+VB;4040;8/341;Progr.konzepte der Geoinf;2;6;8
+VB;6020;8/341;Behördliches Vermessungsw;3;0;2
+VB;1020;8/341;GMP Polarverfahren;3;6;8
+VB;1020;8/341;GMP Polarverfahren;4;0;2
+VB;1020;8/341;GMP Polarverfahren;4;6;8
+VB;1020;8/341;GMP Polarverfahren;5;0;2
+VB;1020;8/341;GMP Polarverfahren;5;6;8
+VB;1020;8/341;GMP Polarverfahren;6;0;2
+VB;1020;8/341;GMP Polarverfahren;6;6;8
+VB;1040;8/341;Grundl.Geog.Informations.;7;0;2
+VB;1040;8/341;Grundl.Geog.Informations.;7;6;8
+VB;1040;8/341;Grundl.Geog.Informations.;8;0;2
+VB;1040;8/341;Grundl.Geog.Informations.;8;6;8
+VB;1040;8/341;Grundl.Geog.Informations.;9;0;2
+VB;1040;8/341;Grundl.Geog.Informations.;9;6;8
+VB;1040;8/341;Grundl.Geog.Informations.;10;0;2
+VB;2010;8/341;Mathematik 2;10;6;8
+VB;2010;8/346;Mathematik 2;1;0;2
+VB;2010;8/346;Mathematik 2;1;6;8
+VB;2020;8/346;Physik;2;0;2
+VB;2030;8/346;GMH Positions-/Höhenbest.;2;6;8
+VB;2040;8/346;Satellitenges.Postitionsb;3;0;1
+VB;2050;8/346;Programmieren 1;3;5;7
+VB;2050;8/346;Programmieren 1;4;0;2
+VB;3010;8/346;Ausgleichungsrechn./Stat;4;6;8
+VB;3010;8/346;Ausgleichungsrechn./Stat;5;0;2
+VB;3010;8/346;Ausgleichungsrechn./Stat;5;6;8
+VB;3010;8/346;Ausgleichungsrechn./Stat;6;0;2
+VB;3020;8/346;Ing.bau/Ing.vermessung;6;6;8
+VB;3020;8/346;Ing.bau/Ing.vermessung;7;0;2
+VB;3020;8/346;Ing.bau/Ing.vermessung;7;6;8
+VB;3020;8/346;Ing.bau/Ing.vermessung;8;0;2
+VB;3020;8/346;Ing.bau/Ing.vermessung;8;6;8
+VB;3030;8/346;Räuml.Datenbank u.Datenmo;9;0;2
+VB;3030;8/346;Räuml.Datenbank u.Datenmo;9;6;8
+VB;3030;8/346;Räuml.Datenbank u.Datenmo;10;0;2
+VB;3030;8/346;Räuml.Datenbank u.Datenmo;10;6;8
+VB;3030;8/003;Räuml.Datenbank u.Datenmo;1;0;2
+VB;4010;8/003;Photogrammetrie;1;6;8
+VB;4020;8/003;Nahbereichsvermessung;2;0;2
+VB;4040;8/003;Programmieren 2;2;6;8
+VIS;1020;8/003;Betrieb von Straßen;3;0;3
+VIS;1020;8/003;Betrieb von Straßen;3;7;10
+VIS;1030;8/003;ÖPNV Straße u.Schiene;4;0;3
+VIS;1030;8/003;ÖPNV Straße u.Schiene;4;7;10
+VIS;1040;8/003;Transportlogistik;5;0;2
+VIS;1040;8/003;Transportlogistik;5;6;8
+VIS;2020;8/003;Bemessung u.Erhaltung v.S;6;0;3
+VIS;3010;8/003;Integriertes Arbeiten;6;7;8
+VM;2010;8/003;Geodatenmanagement;7;0;1
+VM;2020;8/003;Liegenschaftsk./Planung;7;5;7
+WBI;4010;8/003;Konstr.Ingenieurbau;8;0;2
+WBI;4020;8/003;Bauphysik und Vermessung;8;6;9
+WBI;4030;8/003;Baumanagement III;9;0;2
+WBI;4040;8/003;Investition u.Finanz.;9;6;8
+WBI;4050;8/003;Energie;10;0;2
+WBI;5016;8/003;Arbeitsschutzmanagement;10;6;7
+WBI;5016;1/U37;Arbeitsschutzmanagement;1;0;1
+WBI;16010;1/U37;Heizung,Klima,Lüftung 1;1;5;6
+WBI;16050;1/U37;Kauf- und Mietvertrag;2;0;1
+WBI;1010;1/U37;Mathematik I;2;5;6
+WBI;1010;1/U37;Mathematik I;3;0;1
+WBI;1010;1/U37;Mathematik I;3;5;6
+WBI;1020;1/U37;Mechanik I;4;0;2
+WBI;1020;1/U37;Mechanik I;4;6;8
+WBI;1020;1/U37;Mechanik I;5;0;2
+WBI;1030;1/U37;Baustoffkunde u.Bauphysik;5;6;8
+WBI;1030;1/U37;Baustoffkunde u.Bauphysik;6;0;2
+WBI;1030;1/U37;Baustoffkunde u.Bauphysik;6;6;8
+WBI;1040;1/U37;Volkswirtschaft + Recht 1;7;0;2
+WBI;1040;1/U37;Volkswirtschaft + Recht 1;7;6;8
+WBI;1040;1/U37;Volkswirtschaft + Recht 1;8;0;2
+WBI;1050;1/U37;Betriebswirtschaft;8;6;8
+WBI;1050;1/U37;Betriebswirtschaft;9;0;2
+WBI;1050;1/U37;Betriebswirtschaft;9;6;8
+WBI;2010;1/U37;Mathematik II;10;0;2
+WBI;2010;1/U37;Mathematik II;10;6;8
+WBI;2030;1/106;Geotechnik u. Vermessung;1;0;2
+WBI;2030;1/106;Geotechnik u. Vermessung;1;6;8
+WBI;2030;1/106;Geotechnik u. Vermessung;2;0;2
+WBI;2050;1/106;Rechnungswesen;2;6;8
+WBI;2050;1/106;Rechnungswesen;3;0;2
+WBI;2050;1/106;Rechnungswesen;3;6;8
+WBI;3010;1/106;Architektur und Städtebau;4;0;1
+WBI;3010;1/106;Architektur und Städtebau;4;5;6
+WBI;3020;1/106;Baukonstruktion u.Brands.;5;0;1
+WBI;3020;1/106;Baukonstruktion u.Brands.;5;5;6
+WBI;3050;1/106;Bilanzierung u.Steuerl.;6;0;2
+WBI;3050;1/106;Bilanzierung u.Steuerl.;6;6;8
+WBI;4020;1/106;Wärmes.u.Energiet.I;7;0;2
+WBI;4020;1/106;Wärmes.u.Energiet.I;7;6;8
+WBI;4030;1/106;Baumanagement III;8;0;1
+WBI;4030;1/106;Baumanagement III;8;5;6
+WBI;4040;1/106;Investition u. Finanzier.;9;0;2
+WBI;4040;1/106;Investition u. Finanzier.;9;6;8
+WBI;4050;1/106;Schlüsselfertigbau;10;0;1
+WBI;4050;1/106;Schlüsselfertigbau;10;5;6
+WBI;4060;1/108;Arbeitsschutz;1;0;1
+WBI;4060;1/108;Arbeitsschutz;1;5;6
+WBI;6010;1/108;Immobilienökonomie;2;0;1
+WBI;6010;1/108;Immobilienökonomie;2;5;6
+WBI;6010;1/108;Immobilienökonomie;3;0;1
+WBI;6020;1/108;Recht III;3;5;7
+WBI;6020;1/108;Recht III;4;0;2
+WBI;6020;1/108;Recht III;4;6;8
+WBI;6040;1/108;Wärmesch. u. Energietec.I;5;0;2
+WBI;6040;1/108;Wärmesch. u. Energietec.I;5;6;8
+WBI;6040;1/108;Wärmesch. u. Energietec.I;6;0;2
+WBI;7010;1/108;Personal und Recht IV;6;6;8
+WBI;7010;1/108;Personal und Recht IV;7;0;2
+WBI;7010;1/108;Personal und Recht IV;7;6;8
+WBI;7010;1/108;Personal und Recht IV;8;0;2
+WBI;7020;1/108;Bauen im Bestand;8;6;7
+WBI;7020;1/108;Bauen im Bestand;9;0;1
+WBI;7020;1/108;Bauen im Bestand;9;5;6
+WBI;7030;1/108;Energietechnik II;10;0;2
+WBI;7030;1/108;Energietechnik II;10;6;8
+WBI;7030;1/109;Energietechnik II;1;0;2
+WBI;6010;1/109;Immobilienökonomie;1;6;8
+WBI;6010;1/109;Immobilienökonomie;2;0;2
+WBI;6010;1/109;Immobilienökonomie;2;6;8
+WBI;6020;1/109;Recht III;3;0;2
+WBI;6020;1/109;Recht III;3;6;8
+WBI;6020;1/109;Recht III;4;0;2
+WBI;6050;1/109;Immobilienrecht;4;6;8
+WBI;7010;1/109;Personal und Recht IV;5;0;2
+WBI;7010;1/109;Personal und Recht IV;5;6;8
+WBI;7010;1/109;Personal und Recht IV;6;0;2
+WBI;7020;1/109;Bauen im Bestand;6;6;7
+WBI;7020;1/109;Bauen im Bestand;7;0;1
+WBI;7020;1/109;Bauen im Bestand;7;5;6
+WI;1020;1/109;Diskrete Mathematik;8;0;2
+WI;1020;1/109;Diskrete Mathematik;8;6;8
+WI;1020;1/109;Diskrete Mathematik;9;0;2
+WI;1020;1/109;Diskrete Mathematik;9;6;8
+WI;1020;1/109;Diskrete Mathematik;10;0;2
+WI;1030;1/109;Grundlagen der BWL;10;6;8
+WI;1030;1/110;Grundlagen der BWL;1;0;2
+WI;1030;1/110;Grundlagen der BWL;1;6;8
+WI;1030;1/110;Grundlagen der BWL;2;0;2
+WI;1030;1/110;Grundlagen der BWL;2;6;8
+WI;1050;1/110;Grundl. Wirtschaftsinfor.;3;0;1
+WI;1050;1/110;Grundl. Wirtschaftsinfor.;3;5;6
+WI;1050;1/110;Grundl. Wirtschaftsinfor.;4;0;1
+WI;1050;1/110;Grundl. Wirtschaftsinfor.;4;5;6
+WI;1050;1/110;Grundl. Wirtschaftsinfor.;5;0;1
+WI;2010;1/110;Mathematik 2;5;5;7
+WI;2010;1/110;Mathematik 2;6;0;2
+WI;2010;1/110;Mathematik 2;6;6;8
+WI;2020;1/110;Volkswirtschaftslehre;7;0;2
+WI;2020;1/110;Volkswirtschaftslehre;7;6;8
+WI;2020;1/110;Volkswirtschaftslehre;8;0;2
+WI;2020;1/110;Volkswirtschaftslehre;8;6;8
+WI;2030;1/110;Betriebl. Rechnungswesen;9;0;2
+WI;2030;1/110;Betriebl. Rechnungswesen;9;6;8
+WI;2030;1/110;Betriebl. Rechnungswesen;10;0;2
+WI;2050;1/110;Programmieren 2;10;6;8
+WI;2050;1/111;Programmieren 2;1;0;2
+WI;3010;1/111;Operations Research;1;6;8
+WI;3010;1/111;Operations Research;2;0;2
+WI;3010;1/111;Operations Research;2;6;8
+WI;3030;1/111;Kosten-/Leistungsrechnung;3;0;2
+WI;3030;1/111;Kosten-/Leistungsrechnung;3;6;8
+WI;3030;1/111;Kosten-/Leistungsrechnung;4;0;2
+WI;3030;1/111;Kosten-/Leistungsrechnung;4;6;8
+WI;3040;1/111;Datenbanksysteme;5;0;1
+WI;3040;1/111;Datenbanksysteme;5;5;6
+WI;3040;1/111;Datenbanksysteme;6;0;1
+WI;3050;1/111;IT-Sicherheit;6;5;7
+WI;3050;1/111;IT-Sicherheit;7;0;2
+WI;3050;1/111;IT-Sicherheit;7;6;8
+WI;4010;1/111;Statistik;8;0;2
+WI;4030;1/111;Software Eng.Modellierung;8;6;8
+WI;7010;1/111;Betriebspsychologie;9;0;1
+WI;7010;1/111;Betriebspsychologie;9;5;6
+WI;7030;1/111;Recht;10;0;1
+WI;7030;1/111;Recht;10;5;6
+WI;17200;1/303;Datenstrukt./Algorithmen;1;0;2
+WI;17210;1/303;Verteilte Systeme;1;6;8
+WP;8004;1/303;Rechn. u. Finanzman. I;2;0;3
+WP;8004;1/303;Rechn. u. Finanzman. I;2;7;10
+WP;8004;1/303;Rechn. u. Finanzman. I;3;0;3
+WP;8005;1/303;Lean Management;3;7;9
+WP;8005;1/303;Lean Management;4;0;2
+WP;8005;1/303;Lean Management;4;6;8
+WP;8007;1/303;Grundlagen Recht;5;0;3
+WP;8007;1/303;Grundlagen Recht;5;7;10
+WP;8007;1/303;Grundlagen Recht;6;0;3
+WP;9001;1/303;Diagnostik;6;7;8
+WP;9001;1/303;Diagnostik;7;0;1
+WP;9001;1/303;Diagnostik;7;5;6
+WPM;1020;1/303;Forschungsmethoden I;8;0;2
+WPM;1020;1/303;Forschungsmethoden I;8;6;8
+WPM;1040;1/303;Marketing & Konsumentenp.;9;0;2
+WPM;1040;1/303;Marketing & Konsumentenp.;9;6;8
+WPM;1050;1/303;Psychologische Asp.Org.I;10;0;1
+WPM;1050;1/303;Psychologische Asp.Org.I;10;5;6
