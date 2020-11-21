@@ -5,11 +5,6 @@ using namespace std;
 #include <vector>
 #include <time.h>
 
-/*VON:
- * JAN BOTHMANN
- * OGUZHAN YÜKSEL
- */
-
 // CSV ANMELDUNGEN : mtknr;stg;pversion;pnr;pform;dtxt;psem
 // CSV PRUEFUNGEN  : stg;vert;pversion;pnr;pdtxt;ppruefer;Prüfer 1;zweitpruefer;Prüfer 2;pdauer;pform;psem;angeboten
 
