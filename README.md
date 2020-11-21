@@ -1,9 +1,3 @@
-# Programmieren3
+# Exam Week Scheduler
 
-Einbinden des Projekts unter CLion:
-
-1. Open ... -> Auf das Unterverzeichnis "Prog3" klicken , NICHT auf "Programmieren3"
-2. Run -> Edit Configurations... -> Das Working Directory auf "$FileDir$" setzen 
-3. Run -> Run 'Prog3'
-
-Fertig
+Algorithm to schedule a college Exam week for offered exams for a given period of time
